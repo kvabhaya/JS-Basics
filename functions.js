@@ -12,7 +12,7 @@ console.log(remainder(10,3));
 
 
 
-//Calculater
+//Calculator
 function add(fn,sn) {
     return fn+sn     
  }
