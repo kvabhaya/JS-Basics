@@ -1,3 +1,4 @@
+//function Syntax
 function add(fn,sn) {
     return fn+sn     
  }
@@ -36,3 +37,12 @@ console.log(multi(10,5));
 console.log(div(10,5));
 console.log(rema(10,5));
 console.log(expo(10,5));
+
+
+
+//Function Using String
+function printCapital(city,country){
+    console.log(city +" is the Capital of "+country)
+}
+printCapital("Sri Jayawardanapura","Sri Lanka");
+
