@@ -6,3 +6,10 @@ rem=a%b;
 exp=a**b;
 console.log(rem);
 console.log(exp);
+
+//Precedence Order
+//  ()
+//  unary -,+
+//  **
+// *,/
+// +,-
